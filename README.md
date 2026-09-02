@@ -10,11 +10,11 @@
 [![Security Audit](https://img.shields.io/github/actions/workflow/status/Letdown2491/waypoint-gtk/security.yml?label=Security%20Audit&logo=github&colorA=363a4f&colorB)](#)
 [![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux&colorA=363a4f)](#)
 [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=badge&label=Xlibre-Void&logo=X&colorA=363a4f&colorB=df8e1d)](#)
-[![Repo size](https://img.shields.io/github/repo-size/xlibre-void/xlibre?style=badge&logo=protondrive&logoColor=fff&colorA=363a4f&colorB=blue)](#)
+[![Repo size](https://img.shields.io/github/repo-size/xlibre-void/xlibre-stable?style=badge&logo=protondrive&logoColor=fff&colorA=363a4f&colorB=blue)](#)
 
-[![Auto Assign](https://github.com/xlibre-void/xlibre/actions/workflows/build.yml/badge.svg)](https://github.com/xlibre-void/xlibre/actions/workflows/build.yml)
-[![Proof HTML](https://github.com/xlibre-void/xlibre/actions/workflows/update-template.yml/badge.svg)](https://github.com/xlibre-void/xlibre/actions/workflows/update-template.yml)
-[![Build](https://img.shields.io/github/actions/workflow/status/xlibre-void/xlibre/build.yml?style=badge&label=BUILD&logo=githubactions&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre/actions)
+[![Auto Assign](https://github.com/xlibre-void/xlibre-stable/actions/workflows/build.yml/badge.svg)](https://github.com/xlibre-void/xlibre-stable/actions/workflows/build.yml)
+[![Proof HTML](https://github.com/xlibre-void/xlibre-stable/actions/workflows/update-template.yml/badge.svg)](https://github.com/xlibre-void/xlibre-stable/actions/workflows/update-template.yml)
+[![Build](https://img.shields.io/github/actions/workflow/status/xlibre-void/xlibre-stable/build.yml?style=badge&label=BUILD&logo=githubactions&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-stable/actions)
 <!--
 [![Build](https://github.com/xlibre-void/xlibre/actions/workflows/build.yml/badge.svg?style=badge&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre/actions/workflows/build.yml)
 [![Build](https://img.shields.io/github/actions/workflow/status/xlibre-void/xlibre/build.yml?style=badge&label=BUILD&logo=githubactions&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre/actions)
