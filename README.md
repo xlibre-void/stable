@@ -9,13 +9,13 @@
 
 [![Security Audit](https://img.shields.io/github/actions/workflow/status/Letdown2491/waypoint-gtk/security.yml?label=Security%20Audit&logo=github&colorA=363a4f&colorB)](#)
 [![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux&colorA=363a4f)](#)
-[![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=badge&label=Xlibre-Void&logo=X&colorA=363a4f&colorB=df8e1d)](#)
+[![Xlibre](https://img.shields.io/badge/xlibre-void/stable?style=badge&label=Xlibre-Void&logo=X&colorA=363a4f&colorB=df8e1d)](#)
 [![Version](https://img.shields.io/badge/version-25.1.9-blue)](#)
-[![Repo size](https://img.shields.io/github/repo-size/xlibre-void/xlibre-stable?style=badge&logo=protondrive&logoColor=fff&colorA=363a4f&colorB=blue)](#)
+[![Repo size](https://img.shields.io/github/repo-size/xlibre-void/stable?style=badge&logo=protondrive&logoColor=fff&colorA=363a4f&colorB=blue)](#)
 
-[![Auto Assign](https://github.com/xlibre-void/xlibre-stable/actions/workflows/build.yml/badge.svg)](https://github.com/xlibre-void/xlibre-stable/actions/workflows/build.yml)
-[![Proof HTML](https://github.com/xlibre-void/xlibre-stable/actions/workflows/update-template.yml/badge.svg)](https://github.com/xlibre-void/xlibre-stable/actions/workflows/update-template.yml)
-[![Build](https://img.shields.io/github/actions/workflow/status/xlibre-void/xlibre-stable/build.yml?style=badge&label=BUILD&logo=githubactions&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-stable/actions)
+[![Auto Assign](https://github.com/xlibre-void/stable/actions/workflows/build.yml/badge.svg)](https://github.com/xlibre-void/stable/actions/workflows/build.yml)
+[![Proof HTML](https://github.com/xlibre-void/stable/actions/workflows/update-template.yml/badge.svg)](https://github.com/xlibre-void/stable/actions/workflows/update-template.yml)
+[![Build](https://img.shields.io/github/actions/workflow/status/xlibre-void/stable/build.yml?style=badge&label=BUILD&logo=githubactions&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/stable/actions)
 <!--
 [![Build](https://github.com/xlibre-void/xlibre/actions/workflows/build.yml/badge.svg?style=badge&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre/actions/workflows/build.yml)
 [![Build](https://img.shields.io/github/actions/workflow/status/xlibre-void/xlibre/build.yml?style=badge&label=BUILD&logo=githubactions&logoColor=white&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre/actions)
@@ -214,7 +214,7 @@ wget -O - https://github.com/xlibre-void/xlibre/raw/refs/heads/main/install-xlib
 ```
 sudo mkdir -p /var/db/xbps/keys
 sudo wget -O /var/db/xbps/keys/00:ca:42:57:c9:c0:9a:ec:94:b4:7d:97:e5:a9:aa:1e.plist \
-  https://github.com/xlibre-void/xlibre/raw/refs/heads/main/repo-keys/x86_64/00:ca:42:57:c9:c0:9a:ec:94:b4:7d:97:e5:a9:aa:1e.plist
+  https://github.com/xlibre-void/stable/raw/refs/heads/main/repo-keys/x86_64/00:ca:42:57:c9:c0:9a:ec:94:b4:7d:97:e5:a9:aa:1e.plist
 ```
   
 > repo-key `00:ca:42:57:c9:c0:9a:ec:94:b4:7d:97:e5:a9:aa:1e.plist`
@@ -241,5 +241,5 @@ sudo wget -O /var/db/xbps/keys/00:ca:42:57:c9:c0:9a:ec:94:b4:7d:97:e5:a9:aa:1e.p
 </p>
 
 <p align="center">
-	<a href="https://github.com/xlibre-void/xlibre/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&logo=gitbook&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+	<a href="https://github.com/xlibre-void/stable/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&logo=gitbook&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
