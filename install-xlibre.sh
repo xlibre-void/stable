@@ -3,7 +3,7 @@
 # Maintainer : Sofiya for XLibre (sofiya@xlibre-void)
 # Script     : install-xlibre.sh
 # Version    : 0.1.1
-# Repository : https://github.com/xlibre-void/xlibre/releases
+# Repository : https://github.com/xlibre-void/stable/releases
 #
 
 # Note: this script requires 'sudo' to perform the installation
