@@ -148,7 +148,7 @@ _Automatically replaces X.Org server packages with Xlibre xserver packages_
 - _Open the terminal and enter_
 
 ```sh
-wget -O - https://github.com/xlibre-void/xlibre/raw/refs/heads/main/install-xlibre.sh | tee install-xlibre.sh && chmod +x install-xlibre.sh && sudo ./install-xlibre.sh
+wget -O - https://github.com/xlibre-void/stable/raw/refs/heads/main/install-xlibre.sh | tee install-xlibre.sh && chmod +x install-xlibre.sh && sudo ./install-xlibre.sh
 ```
 
 # 📦 Available packages
