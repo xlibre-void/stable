@@ -63,7 +63,7 @@ sudo mkdir -p /etc/xbps.d
 ```
 
 ```sh
-printf "repository=https://github.com/xlibre-void/stable/releases/latest/download/" | sudo tee /etc/xbps.d/99-repository-xlibre-stable.conf
+printf "repository=https://github.com/xlibre-void/stable/releases/latest/download" | sudo tee /etc/xbps.d/99-repository-xlibre-stable.conf
 ```
 
 > [!IMPORTANT]
